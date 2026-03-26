@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @justinc3p0
+- 👋 run npm run build to prepare production files 
 - 👀 I’m interested in react.js and python
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on 
